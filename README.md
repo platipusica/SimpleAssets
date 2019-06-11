@@ -14,7 +14,7 @@ The DB contains 24825 Assets,500004 Parts,1000000 Suppliers (scaled to 450k for 
 How to run in *your* environment?
 ==================================
 
-Download this repo. Create a New App as per below, and Import the zip file. Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder and start the Server. 
+Download this repo. Create a New App as per below, and Import the zip file. Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder, unzip and start the Server. 
 
 
 Why using Jam.py?
