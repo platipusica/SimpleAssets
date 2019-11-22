@@ -8,7 +8,12 @@ The Assets & Parts Management Application on PythonAnywhere lives here:
 
 https://jampy.pythonanywhere.com
 
+
 The DB contains 24825 Assets,500004 Parts,1000000 Suppliers (scaled to 450k for Github upload) and 1000 Employees, all random data. The App is WIP so please bear with me.
+
+Please visit for more info:
+
+http://jampyapplicationbuilder.com/
 
 
 How to run in *your* environment?
