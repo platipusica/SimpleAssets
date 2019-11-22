@@ -15,6 +15,15 @@ Please visit for more info:
 
 http://jampyapplicationbuilder.com/
 
+and more Demos:
+
+http://jampy-aliases.herokuapp.com
+
+https://redhatsatellite.herokuapp.com
+
+https://sambashares.herokuapp.com/
+
+
 
 How to run in *your* environment?
 ==================================
