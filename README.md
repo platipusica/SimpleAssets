@@ -17,6 +17,10 @@ http://jampyapplicationbuilder.com/
 
 and more Demos:
 
+https://jampyapp.pythonanywhere.com/
+
+https://sem.pythonanywhere.com/
+
 http://jampy-aliases.herokuapp.com
 
 https://redhatsatellite.herokuapp.com
