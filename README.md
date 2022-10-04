@@ -28,7 +28,10 @@ https://sambashares.herokuapp.com/
 How to run in *your* environment?
 ==================================
 
-Download this repo. Create a New App as per below, and Import the zip file. Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder, unzip and start the Server. 
+Download this repo. Create a New App as per below, and Import the zip file SimpleAssets_1.0.9_5.4.83.... Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder, unzip and start the Server. The database will contain random data. If still not convinced about the Jam.py speed, try:
+
+https://github.com/platipusica/jampy-exe
+
 
 
 Why using Jam.py?
@@ -74,7 +77,7 @@ Installation
 
 ### Dependencies
 
- * python 2.7 // python 3.6
+ * python 2.7 // python 3.x
  * For MySQL database access: mysqlclient, libmysqlclient-dev
  * For Oracle database access: cx_oracle
  * For Firebird database access: fdb
@@ -91,7 +94,7 @@ sudo pip install jam.py
 ```
 at the shell prompt. If you’re using Windows, start a command shell with administrator privileges and run the command:
 ```
-pip install jam.py. 
+pip install jam.py 
 ```
 This will install Jam.py in your Python installation’s site-packages directory.
 
