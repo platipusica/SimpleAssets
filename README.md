@@ -15,24 +15,23 @@ Please visit for more info:
 
 http://jampyapplicationbuilder.com/
 
-and more Demos:
+or more Demos:
 
 https://jampyapp.pythonanywhere.com/
 
 https://sem.pythonanywhere.com/
 
-http://jampy-aliases.herokuapp.com
+https://msaccess.pythonanywhere.com/
 
-https://redhatsatellite.herokuapp.com
-
-https://sambashares.herokuapp.com/
-
+The above is a direct MS Acccess migration to the Web.
 
 
 How to run in *your* environment?
 ==================================
 
-Download this repo. Create a New App as per below, and Import the zip file SimpleAssets_1.0.9_5.4.83.... Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder, unzip and start the Server. The database will contain random data. If still not convinced about the Jam.py speed, try:
+Download this repo. Create a New App as per below, and Import the zip file SimpleAssets_1.0.9_5.4.83.... Rename Database (F4), to SimpleAssets.sqlite and stop the App server. Copy downloaded SimpleAssets.sqlite.gz file into the folder, unzip and start the Server. The database will contain random data. 
+
+If still not convinced about the Jam.py speed, try click-and-run application:
 
 https://github.com/platipusica/jampy-exe
 
